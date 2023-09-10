@@ -1,4 +1,4 @@
-### Hi, I&#39m Rafael Petronilio 👋
+### Hi, I'm Rafael Petronilio 👋
 
 I&#39;m a software engineer with 9 years of experience, 6 of which in credit recovery projects in the financial
 market. In these projects, I worked on modernizing, transforming and redesigning processes with different
