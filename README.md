@@ -9,7 +9,7 @@ I excel in working as part of a team and with agile methodologies, solving probl
 
 - 💼  I am currently employed at Itaú Unibanco
 - 🎓 I am a Full Stack Developer with an MBA.
-- 📫 Contact me at: [rafael.petronilio.dev.br](https://rafael.petronilio.dev.br)
+- 📫 Contact me at: [https://linkedin.com/in/rafaelpetronilio](https://linkedin.com/in/rafaelpetronilio)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelptr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
